@@ -1,6 +1,6 @@
-# Contributing to DhamaalEffeKa
+# Contributing to Ba-Effe
 
-Thank you for your interest in contributing to DhamaalEffeKa! This repository is part of **OpenCode '25**, a month-long open-source program by GeekHaven. This repository contains all the visual creatives for **Effervescence**, the cultural fest of IIIT Allahabad.
+Thank you for your interest in contributing to Ba-Effe! This repository is part of **OpenCode '25**, a month-long open-source program by GeekHaven. This repository contains all the visual creatives for **Effervescence**, the cultural fest of IIIT Allahabad.
 
 **Mentor:** Pratik Rakhecha
 
@@ -41,8 +41,8 @@ This repository is part of OpenCode '25, where you can earn points by completing
 2. **Clone your fork locally:**
     
     ```bash
-    git clone https://github.com/your-username/DhamaalEffeKa.git
-    cd DhamaalEffeKa
+    git clone https://github.com/your-username/Ba-Effe.git
+    cd Ba-Effe
     ```
     
 
@@ -61,8 +61,8 @@ There are **3 types of issues** in this repository:
 - **No claiming required** - anyone can work on them
 - Multiple people can submit solutions
 - Flexible timeframes
-- Generally carry **lower points** (10-20 points)
-- Examples: Issue #1 (Invite Poster), Issue #2 (Badges & Stickers), Issue #6 (ID Card), Issue #7 (Fest Pass)
+- Generally carry **lower points**
+- Best for beginners and quick contributions
 
 ### 2. Competitive Issues
 
@@ -70,8 +70,8 @@ There are **3 types of issues** in this repository:
 - Multiple submissions accepted
 - **Only the best PR** (in terms of quality and design) receives points
 - Mentor decides which submission is best
-- Generally carry **higher points** (30-50 points)
-- Examples: Issue #3 (Hoodie Design), Issue #8 (Text Logo), Issue #10 (Artist Reveal), Issue #12 (3D Animation), Issue #13 (App UI/UX)
+- Generally carry **higher points**
+- Great for showcasing your best work
 
 ### 3. First-Come Issues
 
@@ -81,7 +81,6 @@ There are **3 types of issues** in this repository:
 - **Time limit: 2 days** to complete (+ max 12 hours extension if mentor approves)
 - If you don't complete in time, you **cannot work on that issue again**
 - The issue will be reassigned to the next person who claims it
-- Currently: Issue #9 (Main Gate Banners) may be first-come based
 
 ## How to Contribute
 
@@ -115,26 +114,26 @@ There are **3 types of issues** in this repository:
 
 ### Step 4: Organize Your Files
 
-Follow the folder structure outlined in [File Formats & Structure](https://www.notion.so/contributor-md-2cf45b0455d88015a50edcbc53d22ff1?pvs=21)
+Follow the folder structure outlined in [File Formats & Structure](#file-formats--structure)
 
 ### Step 5: Open a Pull Request
 
-See [Pull Request Guidelines](https://www.notion.so/contributor-md-2cf45b0455d88015a50edcbc53d22ff1?pvs=21) for detailed instructions
+See [Pull Request Guidelines](#pull-request-guidelines) for detailed instructions
 
 ## Design Requirements
 
 ### Required Tools
 
 - **2D Design:** Figma, Adobe XD, Sketch, Adobe Illustrator, Photoshop
-- **3D Modeling/Animation:** Blender (for Issue #12)
-- **UI/UX Design:** Figma, Adobe XD, Sketch (for Issue #13)
+- **3D Modeling/Animation:** Blender
+- **UI/UX Design:** Figma, Adobe XD, Sketch
 - **Version Control:** Git and GitHub
 - **Image Optimization:** TinyPNG, ImageOptim
 
 ### File Formats
 
 - **Figma Links:** `.txt` files containing shareable Figma project links
-- **3D Animations:** `.mp4` files (max 20 seconds for Issue #12)
+- **3D Animations:** `.mp4` files (check issue for specific time limits)
 - **Source Files:** `.fig`, `.sketch`, `.xd`, `.blend`, `.ai`, `.psd`
 - **Exports:** `.png`, `.svg`, `.jpg` for final deliverables
 - **Documentation:** `.md` files for design notes
@@ -151,9 +150,6 @@ issue-0_effervescence-logo_primary.png
 issue-1_invite-poster_final.jpg
 issue-3_hoodie-design_front.png
 issue-8_text-logo_variation-2.svg
-issue-12_hoodie-reveal_animation.mp4
-issue-13_app-ui_figma-link.txt
-
 ```
 
 ### Folder Structure
@@ -245,11 +241,11 @@ issue-13_app-ui_figma-link.txt
 
 ### Points System
 
-- Points vary based on difficulty: **10-80 points**
-- OFA issues: Generally **10-20 points**
-- Competitive issues: Generally **30-50 points**
+- Points vary based on difficulty
+- OFA issues: Generally lower points
+- Competitive issues: Generally higher points
 - First-come issues: Varies based on complexity
-- Issue #13 (App UI/UX): **80 points** (highest)
+- Check individual issues for specific point values
 
 ### Violations & Penalties
 
@@ -335,7 +331,7 @@ Most issues follow a **Bollywood / Filmy theme**. Your designs should:
 - ❌ Ignoring the Bollywood/Filmy theme
 - ❌ Not providing source files
 - ❌ Forgetting to add Figma links
-- ❌ Exceeding video length limits (Issue #12)
+- ❌ Exceeding video length limits
 - ❌ Creating new PRs instead of modifying existing ones
 - ❌ Missing first-come issue deadlines
 
@@ -376,6 +372,6 @@ A: Check if you followed the PR template correctly. If yes, ping the mentor on D
 
 ---
 
-Thank you for contributing to DhamaalEffeKa and being part of OpenCode '25! 🎨🎬
+Thank you for contributing to Ba-Effe and being part of OpenCode '25! 🎨🎬
 
 **Happy Contributing!**
