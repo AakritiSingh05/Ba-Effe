@@ -22,7 +22,9 @@ Thank you for your interest in contributing to Ba-Effe! This repository is part 
 
 **Goal:** To create all the visual creatives for Effervescence, the cultural fest of IIIT Allahabad.
 
-**Theme:** Bollywood / Filmy theme (for most issues)
+**Theme:** Rangara - A celebration of 70s-80s Bollywood cinema aesthetics
+
+📖 **[Read the complete Rangara theme guide](./Theme/Rangara.pdf)** to understand the design direction!
 
 This repository is part of OpenCode '25, where you can earn points by completing design challenges. Points contribute to the OpenCode leaderboard, helping you win exciting rewards!
 
@@ -257,15 +259,19 @@ issue-8_text-logo_variation-2.svg
 
 ## Design Guidelines
 
-### Theme: Bollywood / Filmy
+### Theme: Rangara (रंगारा)
 
-Most issues follow a **Bollywood / Filmy theme**. Your designs should:
+Most issues follow the **Rangara theme** - a celebration of the golden era of 70s-80s Bollywood cinema. Your designs should:
 
-- Reflect energy, drama, and glamour of Bollywood cinema
-- Use cinematic elements (film reels, cameras, spotlights, clapperboards) where appropriate
-- Capture the celebratory spirit of Indian cinema
+- Channel the vintage aesthetics of classic Indian cinema
+- Embrace hand-painted poster art styles with bold, dramatic compositions
+- Use warm, nostalgic color palettes (sepia tones, burnt oranges, mustard yellows)
+- Incorporate cinematic elements (film reels, vintage cameras, dramatic lighting) where appropriate
+- Capture the theatrical energy and unapologetic drama of masala entertainers
 - **Be creative** - don't feel restricted to specific elements
-- Maintain overall cinematic vibe while being original
+- Maintain the overall retro-filmy vibe while being original
+
+📖 **[Explore the complete Rangara theme guide](./Theme/Rangara.pdf)** for detailed inspiration and direction!
 
 ### Design Principles
 
@@ -328,7 +334,7 @@ Most issues follow a **Bollywood / Filmy theme**. Your designs should:
 - ❌ Spelling "Effervescence" incorrectly
 - ❌ Not including required information in designs
 - ❌ Submitting low-resolution files
-- ❌ Ignoring the Bollywood/Filmy theme
+- ❌ Ignoring the Rangara theme aesthetic
 - ❌ Not providing source files
 - ❌ Forgetting to add Figma links
 - ❌ Exceeding video length limits
